@@ -1,0 +1,18 @@
+
+.kotak{ 
+	height:470px;
+	width:230px;
+	margin:auto;
+	margin-left:10px;
+	float:left;
+	background-color:#f5cd84;
+	border-radius:15px;
+	image-top:5px;
+	padding:33px;
+}
+
+
+.kosong{
+	height: 30px;
+
+}

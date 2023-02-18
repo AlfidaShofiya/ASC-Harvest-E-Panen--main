@@ -1,0 +1,50 @@
+<html>
+<head>
+	<title>about</title>
+	<link href ="style4.css" rel="stylesheet" text="text/css">
+</head>
+<body>
+		<div class="kotak">
+			<img src="img/logo2.png" height="150px" width="240px">
+			<p><font size="4px" color="green" face="Cooper Black" align="center">
+			<center>Apa sih aplikasi ini?</center> 
+			</font>
+			</p>
+			<p>
+			<font size="3px" color="green" face="Adobe Caslon Pro" align="justify">
+			ASC Harvest adalah perangkat lunak yang digunakan untuk para Petani Indonesia dalam membantu kegiatan bertani mereka dan mengenai segala informasi untuk petani Indonesia tentang keterkaitannya dengan hasil panen yang baik dan berkualitas dari produk dan daya jual yang tinggi.
+			
+			</font></p>
+		</div>
+		
+		<div class="kotak">
+			<img src="img/logo2.png" height="150px" width="240px">
+			<p><font size="4px" color="green" face="Cooper Black" align="center">
+			<center>Tujuan ASC Harvest</center> 
+			</font>
+			</p>
+			<p>
+			<font size="3px" color="green" face="Adobe Caslon Pro" align="justify">
+			untuk mendata petani dalam kegiatan bertani mereka saat melakukan panen dan aplikasi ini dapat menjadi media pemasaran hasil panen para petani sebelum di pasarkan langsung, para petani berbagi informasi hasil panen dan informasi harga komoditas antar petani.
+			</font></p>
+		</div>
+		<div class="kotak">
+			<center>
+			<img src="img/logo2.png" height="150px" width="240px">
+			<p><font size="4px" color="green" face="Cooper Black" align="center">
+			<center>Lingkup</center>
+			</font>
+			</p>
+			<p>
+			<font size="3px" color="green" face="Adobe Caslon Pro" align="justify">
+Aplikasi ini bernama aplikasi penjualan produk panen petani dan informasi pertanian “ASC Harvest”, yaitu perangkat lunak yang digunakan untuk para Petani Indonesia dalam membantu kegiatan bertani mereka dan mengenai segala informasi tentang keterkaitannya dengan hasil panen yang baik dan berkualitas dari produk dan daya jual yang tinggi.
+			</font>	
+			</p>
+		</div>
+	<div class="kosong"></div>
+	<div class="footer"><font size="2px" color="white" face="Rockwell Extra Bold" align="center"><center>
+	<marquee behavior="alternate">
+	ASC Harvest--ASC Harvest--ASC Harvest--ASC Harvest--ASC Harvest</marquee></center></div>
+</body>	
+
+</html>

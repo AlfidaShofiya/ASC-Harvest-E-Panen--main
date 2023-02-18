@@ -1,0 +1,65 @@
+body{
+	font-family:arial;
+	font-size:13px;
+	
+}
+
+#utama{
+	width: 350px;
+	margin: 0 auto;
+	margin-top:12%;
+}
+
+#judul{
+	padding: 19px;
+	text-align: center;
+	color: #000000;
+	font-size: 20px;
+	background-color: #f5cd84;
+	 background: rgb(255, 227, 200, 0.8);
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: 3px solid #336666;
+}
+
+#inputan{
+	background-color: #ccc;
+	background: rgb(248, 248, 255, 0.8);
+	padding: 20px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+input, select, textarea{
+	padding: 10px;
+	border: 0;
+}
+textarea {
+	font-family: arial;
+	font-size: 13px;
+}
+
+.lg{
+	width: 240px;
+	background-color:  #f5cd84;
+	border-radius: 10px;
+	color: #fff;
+}
+
+.btn:hover{
+	background-color: #0DBD75;
+	cursor: pointer;
+}
+
+.btn{
+	background-color: #fff;
+	border-radius: 10px;
+	cursor: #fff;
+}
+
+.btn-right{
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 3px;
+	color:#000000;
+}
